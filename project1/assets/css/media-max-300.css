@@ -1,0 +1,6 @@
+@media only screen and (max-width:299px){
+	    .additional-info-image .container>p {
+    font-size: 15px;
+    font-family: LatoLight;
+    padding: 15px 0px;
+}

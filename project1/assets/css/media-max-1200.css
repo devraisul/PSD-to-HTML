@@ -1,0 +1,9 @@
+@media only screen and (max-width:1199px) {
+	.laptop-img {
+    width: 43rem;
+    height: auto;
+    position: absolute;
+    top: 0%;
+    right: -15%;
+}
+}
